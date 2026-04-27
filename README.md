@@ -27,7 +27,7 @@ Data Modeling: Developing fact and dimension tables optimized for analytical que
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
 
-# Specifications:
+# 🛠️ Specifications:
 
 
 Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
@@ -42,7 +42,7 @@ Documentation: Provide clear documentation of the data model to support both bus
 
 BI: Analytics & Reporting (Data Analysis)
 
-# Objective:
+# 📖 Objective:
 
 Develop SQL-based analytics to deliver detailed insights into:
 
